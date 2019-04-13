@@ -12,6 +12,10 @@
   display: none;
 }
 
+.show {
+  display:block;
+}
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
